@@ -3,6 +3,10 @@ SQ Bot for Automated Bitcoin and SPX Trading
 
 Hey guys -- I know many of you know me from my Hackintosh stuff but I have recently been expanding into different areas. I would love if you guys wanted to take the time to try this out :)
 
+**Please join discord for support and questions, or simply create an issue!**
+
+- https://discord.gg/FYqrB99SZ3
+
  <div align="center">
 
  <img alt="unnamed-1" src="https://github.com/tlefko/squirrel-bot/assets/42879340/cd963af5-eda9-4549-8cbd-421041fed205"> 
