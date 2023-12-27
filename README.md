@@ -4,12 +4,13 @@ SQ Bot for Automated Bitcoin and SPX Trading
 Hey guys -- I know many of you know me from my Hackintosh stuff but I have recently been expanding into different areas. I would love if you guys wanted to take the time to try this out :)
 
 
- <img width="1500" alt="unnamed-1" src="https://user-images.githubusercontent.com/42879340/159208954-f5dc4c9e-908f-49c9-bbd8-b345a7dbff15.png"> Squirrel Capital Official!
+ <img width="1500" alt="unnamed-1" src="https://github.com/tlefko/squirrel-bot/assets/42879340/cd963af5-eda9-4549-8cbd-421041fed205"> Squirrel Capital Official!
 
 ***Elevate your productivity with our top-tier software solutions!***
 
 Includes SQ Lines Helper Script, and Short-Bot
 🚀 SQ Bot: The Next-Gen Trading Algorithm! 🚀
+
 
 
 # ✨ Features:
