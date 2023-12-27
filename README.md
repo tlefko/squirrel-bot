@@ -11,6 +11,7 @@ Hey guys -- I know many of you know me from my Hackintosh stuff but I have recen
 Includes SQ Lines Helper Script, and Short-Bot
 🚀 SQ Bot: The Next-Gen Trading Algorithm! 🚀
 
+![unnamed-1](https://github.com/tlefko/squirrel-bot/assets/42879340/d7dc7266-88dd-4aab-8fa9-a64c92054ddf)
 
 
 # ✨ Features:
