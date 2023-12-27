@@ -7,7 +7,7 @@ Hey guys -- I know many of you know me from my Hackintosh stuff but I have recen
 
  <img alt="unnamed-1" src="https://github.com/tlefko/squirrel-bot/assets/42879340/cd963af5-eda9-4549-8cbd-421041fed205"> 
   Squirrel Capital Official!
-   </div>
+  </div>
 
 
 ***Elevate your productivity with our top-tier software solutions!***
