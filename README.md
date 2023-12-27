@@ -1,4 +1,4 @@
-# squirrel-bot
+# Squirrel Bot Pro
 SQ Bot for Automated Bitcoin and SPX Trading
 
 Hey guys -- I know many of you know me from my Hackintosh stuff but I have recently been expanding into different areas. I would love if you guys wanted to take the time to try this out :)
@@ -10,24 +10,27 @@ Hey guys -- I know many of you know me from my Hackintosh stuff but I have recen
 Includes SQ Lines Helper Script, and Short-Bot
 🚀 SQ Bot: The Next-Gen Trading Algorithm! 🚀
 
-✨ Features:
+# ✨ Features:
 
 Cutting-Edge Predictive Analysis: Using intermarket data, chart patterns, and technicals to ensure optimal trades.
 Precision Risk Management: Aimed at providing the best entry points on any selected timeframe.
 User-Friendly Adjustability: Tailor the bot to your preference – from high volume trading to higher probability entries.
-🚩 Flag System:
+
+# 🚩 Flag System:
 
 Blue Flag: Optimal take-profit point reached and adjusted. Stop-loss set to breakeven.
 Yellow Flag: Stop-loss activated; resetting for the next buy signal.
 Red Flag: Full take-profit achieved; resetting for another buying plot.
-🔧 Adaptive Mechanisms:
+
+# 🔧 Adaptive Mechanisms:
 
 Real-Time Analysis: Every bar is examined individually for dynamic trading decisions.
 Smarter Stop Loss: Reacts to candle close, not just a wick drop.
 Optimized Entry and Take Profit: Ensures profit is maximized and risks are minimized.
 Adaptive Position Sizing: Utilizes compounding for efficient loss recoupment.
 Cloud Execution: No overlap or errors – always accurate and efficient.
-💡 Intelligent Buy Criteria:
+
+# 💡 Intelligent Buy Criteria:
 
 Intermarket Analysis: Using other assets' data to spot perfect entry points for Bitcoin.
 Significant Candles: Advanced logic to detect crucial wicks/bodies for better entries.
