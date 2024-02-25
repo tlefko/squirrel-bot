@@ -51,4 +51,3 @@ Choose SQ Bot. Choose Smart Trading. 🌟📈🤖
 
 **Squirrel Strategy Setup Guide for Fully Automated Trading on BingX**
 
-Code: macOS for free access on WHOP
